@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("I am haveing fun:-)" );
         System.out.println("Hi there this is GitHut training class!");
         System.out.println("We shared our data! the brunching is useful doing timeline of work!");
+        System.out.println("Merge with the brunching time line!");
     }
 }
